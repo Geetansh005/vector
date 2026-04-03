@@ -1,0 +1,405 @@
+[
+  {
+    "image": "/react.webp",
+    "Title": "React js",
+    "Instructor": "john doe",
+    "Dis": "An introductory course to React, covering the basics of components, state, and props state, and props covering the basics of components",
+    "Overview": "This beginner-friendly course is designed to help you master the fundamentals of React.js, one of the most popular JavaScript libraries for building user interfaces. You will learn how to create reusable components, manage state, and build interactive, dynamic web applications.",
+    "Learn": [
+      {
+        "description": "Introduction to React: Understanding the React ecosystem."
+      },
+      {
+        "description": "Setting up a React development environment."
+      },
+      {
+        "description": "Components & Props: Building and reusing components. Passing data using props."
+      },
+      {
+        "description": "State Management: Managing local and global state."
+      },
+      {
+        "description": "Introduction to React Hooks (useState, useEffect)."
+      },
+      {
+        "description": "Event Handling: Handling user input and events (e.g., onClick, onChange)."
+      },
+      {
+        "description": "Working with forms in React."
+      },
+      {
+        "description": "Building Projects: Hands-on mini-projects to solidify concepts."
+      },
+      {
+        "description": "Integrating React with APIs for real-world applications."
+      }
+    ],
+    "rating": " ⭐⭐⭐⭐⭐ (4.8/5 based on 2,500+ students)",
+    "WITCF": "Beginners with basic HTML, CSS, and JavaScript knowledge. Anyone looking to start their journey with modern web development.",
+    "WCTC": [
+      {
+        "text": "Practical and hands-on learning experience"
+      },
+      {
+        "text": "Build real-world projects to showcase in your portfolio."
+      },
+      {
+        "text": "No prior React experience required."
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "image": "/jse.jpg",
+    "Title": "JavaScript",
+    "Instructor": "Jane Smith",
+    "Dis": "Deep dive into advanced JavaScript concepts, including closures, prototypes, and async programming including closures is call javascript.",
+    "Overview": "This beginner-friendly course is designed to help you master the core concepts of JavaScript, one of the most widely used programming languages. You will learn to write clean, efficient code, manipulate the DOM, and build dynamic web applications from scratch.",
+    "Learn": [
+      {
+        "description": "Introduction to JavaScript: Understanding its role in web development."
+      },
+      {
+        "description": "Variables & Data Types: Learn about var, let, const, and basic data types."
+      },
+      {
+        "description": "Control Structures: Master if-else statements, loops, and switch cases."
+      },
+      {
+        "description": "Functions: Writing reusable functions and understanding scope."
+      },
+      {
+        "description": "DOM Manipulation: Selecting, modifying, and interacting with HTML elements."
+      },
+      {
+        "description": "Events: Handling user events like clicks, keypresses, and form submissions."
+      },
+      {
+        "description": "ES6 Features: Learn modern JavaScript concepts such as arrow functions, template literals, and destructuring."
+      },
+      {
+        "description": "Debugging & Error Handling: Identifying and resolving errors in JavaScript."
+      },
+      {
+        "description": "Asynchronous JavaScript: Introduction to promises, async/await, and working with APIs."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.7/5 based on 3,000+ students)",
+    "WITCF": "Beginners with basic knowledge of HTML and CSS. Developers looking to enhance their understanding of JavaScript.",
+    "WCTC": [
+      {
+        "text": "Comprehensive coverage of JavaScript fundamentals."
+      },
+      {
+        "text": "Hands-on exercises and real-world projects."
+      },
+      {
+        "text": "Learn modern ES6+ JavaScript features."
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "image": "./node.jpg",
+    "Title": "Node js",
+    "Instructor": "Mark wilsion",
+    "Dis": "It is used for server-side programming, and primarily deployed for non-blocking, event-driven servers, such as traditional web sites and back-end API services",
+    "Overview": "This beginner-friendly course is designed to help you master the fundamentals of Node.js, a powerful runtime environment for executing JavaScript outside the browser. You will learn to build scalable server-side applications, work with APIs, and manage data using Node.js.",
+    "Learn": [
+      {
+        "description": "Introduction to Node.js: Understanding its architecture and ecosystem."
+      },
+      {
+        "description": "Setting up the Node.js development environment."
+      },
+      {
+        "description": "Modules & Packages: Using built-in modules and installing packages with npm."
+      },
+      {
+        "description": "Building an HTTP Server: Creating and managing server requests and responses."
+      },
+      {
+        "description": "File System Operations: Reading, writing, and managing files with Node.js."
+      },
+      {
+        "description": "Event-Driven Programming: Understanding and handling events in Node.js."
+      },
+      {
+        "description": "Introduction to Express.js: Building RESTful APIs."
+      },
+      {
+        "description": "Working with Databases: Connecting Node.js to databases like MongoDB."
+      },
+      {
+        "description": "Building Projects: Hands-on mini-projects to reinforce concepts."
+      },
+      {
+        "description": "Deploying Node.js Applications: Hosting your apps on platforms like Heroku or AWS."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.9/5 based on 3,000+ students)",
+    "WITCF": "Beginners with basic JavaScript knowledge. Ideal for developers looking to learn backend development or expand their full-stack skills.",
+    "WCTC": [
+      {
+        "text": "Learn to build server-side applications from scratch."
+      },
+      {
+        "text": "Practical, project-based learning approach."
+      },
+      {
+        "text": "No prior backend development experience required."
+      }
+    ],
+    "id": "3"
+  },
+  {
+    "image": "./git.webp",
+    "Title": "Git Hub",
+    "Instructor": "Frank willson",
+    "Dis": "GitHub is built on Git, an open source code management is popular because it's: Easy to use, Has robust documentation and support, and Encourages collaboration",
+    "Overview": "This beginner-friendly course is designed to teach you the fundamentals of GitHub, the world's leading platform for version control and collaboration. You will learn to manage repositories, track changes, and collaborate effectively on coding projects.",
+    "Learn": [
+      {
+        "description": "Introduction to GitHub: Understanding version control and the GitHub ecosystem."
+      },
+      {
+        "description": "Setting Up GitHub: Creating a GitHub account and configuring Git."
+      },
+      {
+        "description": "Repositories: Creating, cloning, and managing repositories."
+      },
+      {
+        "description": "Version Control: Tracking changes with commits and branches."
+      },
+      {
+        "description": "Collaboration: Pull requests, code reviews, and merging branches."
+      },
+      {
+        "description": "GitHub Issues: Reporting and managing tasks or bugs."
+      },
+      {
+        "description": "Markdown Basics: Writing README files and documentation."
+      },
+      {
+        "description": "GitHub Actions: Automating workflows with CI/CD pipelines."
+      },
+      {
+        "description": "Advanced Topics: Managing large repositories and understanding GitHub security."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.8/5 based on 2,800+ students)",
+    "WITCF": "Beginners with basic coding knowledge. Developers and professionals looking to enhance collaboration and version control skills.",
+    "WCTC": [
+      {
+        "text": "Master the essentials of GitHub and version control."
+      },
+      {
+        "text": "Collaborate efficiently on coding projects with teams."
+      },
+      {
+        "text": "Learn GitHub Actions for automation and CI/CD."
+      }
+    ],
+    "id": "4"
+  },
+  {
+    "image": "./C++.jpeg",
+    "Title": "C++ Programming",
+    "Instructor": "Alice Johnson",
+    "Dis": "C++ is used in fields such as system software, game development, embedded systems, scientific computing and high-performance applications.",
+    "Overview": "This beginner-friendly course is designed to teach you the foundational concepts of C++, a powerful and widely-used programming language. You will learn how to write efficient programs, understand object-oriented programming, and build robust applications.",
+    "Learn": [
+      {
+        "description": "Introduction to C++: Understanding its purpose, history, and use cases."
+      },
+      {
+        "description": "Setting Up C++: Installing compilers and setting up your development environment."
+      },
+      {
+        "description": "Syntax & Basics: Writing your first program, understanding variables, and data types."
+      },
+      {
+        "description": "Control Structures: Mastering conditional statements, loops, and switch cases."
+      },
+      {
+        "description": "Functions: Creating reusable code and understanding parameters and return types."
+      },
+      {
+        "description": "Object-Oriented Programming: Understanding classes, objects, inheritance, and polymorphism."
+      },
+      {
+        "description": "Memory Management: Working with pointers, dynamic memory allocation, and deallocation."
+      },
+      {
+        "description": "Standard Template Library (STL): Utilizing vectors, maps, and algorithms."
+      },
+      {
+        "description": "Building Projects: Hands-on projects to apply C++ concepts in real-world scenarios."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.7/5 based on 3,200+ students)",
+    "WITCF": "Beginners with basic programming knowledge. Developers looking to explore systems programming or build performance-critical applications.",
+    "WCTC": [
+      {
+        "text": "Learn the core principles of C++ programming."
+      },
+      {
+        "text": "Understand object-oriented programming concepts."
+      },
+      {
+        "text": "Develop robust applications through hands-on projects."
+      }
+    ],
+    "id": "5"
+  },
+  {
+    "image": "./Mongo.jpg",
+    "Title": "MongoDB",
+    "Instructor": "Emma Watson",
+    "Dis": "MongoDB is a tool that can manage document-oriented information, store or retrieve information. MongoDB is used for high-volume data storage.",
+    "Overview": "This beginner-friendly course is designed to teach you the fundamentals of MongoDB, a popular NoSQL database. You will learn how to design databases, perform CRUD operations, and build scalable, high-performance applications using MongoDB.",
+    "Learn": [
+      {
+        "description": "Introduction to MongoDB: Understanding NoSQL databases and the MongoDB ecosystem."
+      },
+      {
+        "description": "Setting Up MongoDB: Installing MongoDB and setting up the development environment."
+      },
+      {
+        "description": "Basic Operations: Creating databases, collections, and performing CRUD operations."
+      },
+      {
+        "description": "Querying Data: Using filters, projections, and sorting techniques."
+      },
+      {
+        "description": "Indexes: Understanding and implementing indexes for performance optimization."
+      },
+      {
+        "description": "Aggregation Framework: Building powerful queries using pipelines and stages."
+      },
+      {
+        "description": "Relationships: Modeling data and managing relationships with embedded documents and references."
+      },
+      {
+        "description": "Security: Best practices for securing your MongoDB database."
+      },
+      {
+        "description": "Building Projects: Hands-on projects to apply MongoDB concepts in real-world scenarios."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.8/5 based on 2,100+ students)",
+    "WITCF": "Developers and beginners with basic knowledge of databases. Professionals looking to work with modern, scalable NoSQL solutions.",
+    "WCTC": [
+      {
+        "text": "Master the essentials of MongoDB database management."
+      },
+      {
+        "text": "Learn to design efficient and scalable database architectures."
+      },
+      {
+        "text": "Gain practical experience through hands-on projects."
+      }
+    ],
+    "id": "6"
+  },
+  {
+    "image": "./angular.png",
+    "Title": "Angular JS",
+    "Instructor": "Mike Rechard",
+    "Dis": "AngularJS is a toolset for building the framework most suited to your application development. It is fully extensible and works well with other libraries.",
+    "Overview": "This beginner-friendly course is designed to teach you the fundamentals of AngularJS, a powerful JavaScript framework for building dynamic web applications. You will learn to create interactive, single-page applications and master concepts like two-way data binding and dependency injection.",
+    "Learn": [
+      {
+        "description": "Introduction to AngularJS: Understanding the framework and its core features."
+      },
+      {
+        "description": "Setting Up AngularJS: Installing AngularJS and configuring your development environment."
+      },
+      {
+        "description": "Data Binding: Understanding one-way and two-way data binding."
+      },
+      {
+        "description": "Directives: Using built-in directives and creating custom directives."
+      },
+      {
+        "description": "Controllers: Managing application logic with controllers."
+      },
+      {
+        "description": "Services and Dependency Injection: Writing reusable services and understanding DI."
+      },
+      {
+        "description": "Routing: Building single-page applications with AngularJS routing."
+      },
+      {
+        "description": "Filters: Formatting and transforming data with filters."
+      },
+      {
+        "description": "Building Projects: Hands-on projects to build dynamic web applications."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.6/5 based on 1,800+ students)",
+    "WITCF": "Web developers familiar with JavaScript. Beginners looking to create dynamic web applications using AngularJS.",
+    "WCTC": [
+      {
+        "text": "Master the core concepts of AngularJS for building dynamic web apps."
+      },
+      {
+        "text": "Learn two-way data binding and dependency injection."
+      },
+      {
+        "text": "Build single-page applications with routing and directives."
+      }
+    ],
+    "id": "7"
+  },
+  {
+    "image": "./cybersecurity.avif",
+    "Title": "Data Analysis",
+    "Instructor": "Sahra Grace",
+    "Dis": "Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data.",
+    "Overview": "This beginner-friendly course is designed to teach you the fundamentals of data analysis. You will learn how to collect, clean, and interpret data to uncover meaningful insights using industry-standard tools and techniques.",
+    "Learn": [
+      {
+        "description": "Introduction to Data Analysis: Understanding the data analysis process and its importance."
+      },
+      {
+        "description": "Data Collection: Gathering data from various sources, including databases and APIs."
+      },
+      {
+        "description": "Data Cleaning: Handling missing values, duplicates, and inconsistent data."
+      },
+      {
+        "description": "Exploratory Data Analysis (EDA): Using descriptive statistics and data visualization to identify trends."
+      },
+      {
+        "description": "Data Visualization: Creating charts, graphs, and dashboards using tools like Matplotlib, Seaborn, or Tableau."
+      },
+      {
+        "description": "Working with Spreadsheets: Analyzing and organizing data using Excel or Google Sheets."
+      },
+      {
+        "description": "Introduction to Python for Data Analysis: Using libraries like Pandas and NumPy."
+      },
+      {
+        "description": "Basic SQL for Data Analysis: Querying and manipulating data in databases."
+      },
+      {
+        "description": "Building Projects: Hands-on projects to analyze real-world datasets and present findings."
+      }
+    ],
+    "rating": "⭐⭐⭐⭐⭐ (4.9/5 based on 5,000+ students)",
+    "WITCF": "Beginners with basic computer skills. Professionals looking to enhance their decision-making skills through data analysis.",
+    "WCTC": [
+      {
+        "text": "Learn the complete data analysis workflow, from data collection to visualization."
+      },
+      {
+        "text": "Get hands-on experience with tools like Python, Excel, and SQL."
+      },
+      {
+        "text": "Build real-world projects to showcase your data analysis skills."
+      }
+    ],
+    "id": "8"
+  }
+]
